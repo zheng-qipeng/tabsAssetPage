@@ -3,11 +3,6 @@
   "version": "0.0.1",
   "description": "",
   "main": "src/index.js",
-  "authors": {
-    "name": "zhengqipeng",
-    "email": ""
-  },
-  "repository": "https://github.com/zheng-qipeng/tabsAssetPage",
   "scripts": {
     "dev": "umi dev"
   },
