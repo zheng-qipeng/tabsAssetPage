@@ -1,0 +1,22 @@
+{
+  "name": "@umi-block/tabsAssetPage",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "authors": {
+    "name": "zhengqipeng",
+    "email": ""
+  },
+  "repository": "https://github.com/zheng-qipeng/tabsAssetPage",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.9.0",
+    "umi-plugin-block-dev": "^2.0.0"
+  },
+  "license": "MIT"
+}
